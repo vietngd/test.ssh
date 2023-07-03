@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 agvdfdmsgfbjksàdhfbbvsdfs
+=======
+agvdfdmsgfbjksạdssfdsnsdkf
+>>>>>>> update
